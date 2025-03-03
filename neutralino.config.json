@@ -1,7 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/neutralinojs/neutralinojs/main/schemas/neutralino.config.schema.json",
-  "applicationId": "js.neutralino.sample",
+  "applicationId": "0adri3n.down-d3skt0p",
   "version": "1.0.0",
+  "author": "0adri3n",
+  "description": "A desktop version of down-c0nn3ct. Lightweight and fully offline.",
+  "copyright": "Copyright © 0adri3n 2025. All rights reserved.",
+  "applicationIcon": "resources/assets/img/logo.ico",
   "defaultMode": "window",
   "port": 0,
   "documentRoot": "/resources/",
