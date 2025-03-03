@@ -1,9 +1,7 @@
 # <p align="center"> down-d3skt0p </p>
 
-
-
 <p align="center">
-✨ A desktop version of down-c0nn3ct. Lightweight and fully offline. ✨
+✨ A desktop version of down-c0nn3ct. Lightweight (~ 2Mo) and fully offline. ✨
 </p>
 
 ![image](https://github.com/user-attachments/assets/e4916e6a-df0c-4829-bc9e-1a3b21a5d2c0)
