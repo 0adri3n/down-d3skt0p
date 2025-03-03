@@ -50,6 +50,16 @@
 - 🌍 **Offline Mode**: Works without an internet connection
 - ⚡ **Lightweight**: Built with NeutralinoJS, consuming minimal resources
 
+## 💡 Contribute
+
+This project is **open-source**! Feel free to **fork**, test, and improve it.
+
+📌 **Potential improvements:**
+
+- 🎨 Enhance the design with new styles.
+- 🌍 Support multiple languages for international users.
+- 💾 A save system
+
 ## ❤️ Special note 💡
 
 Huge thanks to all the coders who provided solutions for rendering KaTeX and fine-tuning Marked.js settings! 🎉
